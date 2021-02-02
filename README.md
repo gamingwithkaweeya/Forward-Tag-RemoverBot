@@ -4,7 +4,7 @@
 
 
 
-https://telegra.ph/file/18fcdcfa8d929c5cd09bb.png
+![... Join Chaneel "https://t.me/lkhitech"](https://telegra.ph/file/18fcdcfa8d929c5cd09bb.png)
 
 
 
