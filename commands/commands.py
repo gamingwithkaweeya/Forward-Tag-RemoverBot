@@ -19,7 +19,7 @@ from config import Config
 #Inline Keyboard Button
 keyboard = [
 [
- InlineKeyboardButton("📀 Source Code", url=Config.SOURCE)
+ InlineKeyboardButton("📀 Source Code", url="https://github.com/kmacprt/Forward-Tag-RemoverBot")
 ],
 [
  InlineKeyboardButton("👨🏻‍💻 How To Create A Bot Like Me",url="#")
