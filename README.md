@@ -71,9 +71,7 @@
 
 ### [Demo Bot](https://telegram.dog/kajfor_bot) 
 
-### Contributions are Invited 🙂
 
-**©[Artis7eeR](https://github.com/Artis7eeR)**
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
