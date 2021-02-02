@@ -25,7 +25,7 @@ keyboard = [
  InlineKeyboardButton("👨🏻‍💻 How To Create A Bot Like Me",url="#")
 ]
 [
- InlineKeyboardButton("🔔 Join Channel",url="https://youtu.be/swg6un2N4Fk")
+ InlineKeyboardButton("🔔 Join Channel",url="https://t.me/lkhitech")
 ]
 ]
 
