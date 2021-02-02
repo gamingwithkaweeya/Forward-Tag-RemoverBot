@@ -2,7 +2,7 @@
 >A Telegram Bot 🤖 to hide forward source
 
 
-
+### [Demo Bot](https://telegram.dog/kajfor_bot) 
 
 ![... Join Chaneel "https://t.me/lkhitech"](https://telegra.ph/file/18fcdcfa8d929c5cd09bb.png)
 
@@ -69,7 +69,6 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/kmacprt)
 
-### [Demo Bot](https://telegram.dog/kajfor_bot) 
 
 
 
