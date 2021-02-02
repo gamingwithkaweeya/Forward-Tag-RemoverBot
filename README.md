@@ -1,11 +1,10 @@
 ## Forward-Tag-RemoverBot 🤖
 >A Telegram Bot 🤖 to hide forward source
 
-<br/>
 
 
 
-<br/>
+https://telegra.ph/file/18fcdcfa8d929c5cd09bb.png
 
 
 
