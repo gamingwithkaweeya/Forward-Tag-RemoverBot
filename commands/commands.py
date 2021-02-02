@@ -23,7 +23,7 @@ keyboard = [
 ],
 [
  InlineKeyboardButton("👨🏻‍💻 How To Create A Bot Like Me",url="#")
-]
+],
 [
  InlineKeyboardButton("🔔 Join Channel",url="https://t.me/lkhitech")
 ]
