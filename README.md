@@ -16,7 +16,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/kmacprt/Forward-Tag-RemoverBot/)
 
 
-[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/swg6un2N4Fk)**]🎞️
+[**[See Our Video Here To Know How To Build Bot With Coding](https://)**]🎞️
 
 <br/>
 
@@ -53,7 +53,7 @@
  
 ### Installation (Cloud) 🌩
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kmacprt/Forward-Tag-RemoverBot/tree/master)
 
 <br/>
 
