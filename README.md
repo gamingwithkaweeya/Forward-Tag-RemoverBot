@@ -12,8 +12,8 @@
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/kmacprt/Forward-Tag-RemoverBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://github.com/kmacprt/Forward-Tag-RemoverBot/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/kmacprt/Forward-Tag-RemoverBot/)
+[![GitHub forks](https://img.shields.io/github/forks/kmacprt/Forward-Tag-RemoverBot.svg?style=social&label=Fork)](https://github.com/kmacprt/Forward-Tag-RemoverBot/network/)
+[![GitHub stars](https://img.shields.io/github/stars/kmacprt/Forward-Tag-RemoverBot.svg?style=social&label=Star)](https://github.com/kmacprt/Forward-Tag-RemoverBot/)
 
 
 [**[See Our Video Here To Know How To Build Bot With Coding](https://)**]🎞️
