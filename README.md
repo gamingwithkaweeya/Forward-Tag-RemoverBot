@@ -15,7 +15,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/kmacprt/Forward-Tag-RemoverBot.svg?style=social&label=Star)](https://github.com/kmacprt/Forward-Tag-RemoverBot/)
 
 
-[**[See Our Video Here To Know How To Build Bot With Coding](https://)**]🎞️
+[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/rC7Xa5koYoQ)**]🎞️
 
 <br/>
 
