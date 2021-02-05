@@ -22,7 +22,7 @@ keyboard = [
  InlineKeyboardButton("📀 Source Code", url="https://github.com/kmacprt/Forward-Tag-RemoverBot")
 ],
 [
- InlineKeyboardButton("👨🏻‍💻 How To Create A Bot Like Me",url="https://t.me/kacvinduaj")
+ InlineKeyboardButton("👨🏻‍💻 How To Create A Bot Like Me",url="https://youtu.be/rC7Xa5koYoQ")
 ],
 [
  InlineKeyboardButton("🔔 Join Channel",url="https://t.me/lkhitech")
