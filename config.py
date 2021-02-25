@@ -18,7 +18,7 @@ import os
 
 class Config:
 	
- TOKEN=os.environ.get("BOT_TOKEN")
+ TOKEN=os.environ.get("1658550015:AAHoMm9KjooyeZyREaWG3UurA_6TC9TN2Kg")
  START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n ©kavinduaj"
  HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
 	
